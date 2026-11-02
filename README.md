@@ -1,4 +1,4 @@
-\# 📚 Padhai Saathi – AI Quiz Maker
+📚 Padhai Saathi – AI Quiz Maker
 
 
 
@@ -6,7 +6,7 @@ Padhai Saathi is an AI-powered quiz generator built with Python, Flask, and Groq
 
 
 
-\## ✨ Features
+✨Features
 
 
 
@@ -24,29 +24,29 @@ Padhai Saathi is an AI-powered quiz generator built with Python, Flask, and Groq
 
 
 
-\## 🛠️ Tech Stack
+🛠️Tech Stack
 
 
 
-\- \*\*Python\*\* – Core programming language
+\- Python – Core programming language
 
-\- \*\*Flask\*\* – Backend web framework
+\- Flask – Backend web framework
 
-\- \*\*Groq API\*\* – AI model access
+\- Groq API – AI model access
 
-\- \*\*GPT-OSS-120B\*\* – Language model
+\- GPT-OSS-120B – Language model
 
-\- \*\*HTML\*\* – Frontend
+\- HTML – Frontend
 
-\- \*\*python-dotenv\*\* – Environment variable management
-
-
-
-\## 📁 Project Structure
+\- python-dotenv – Environment variable management
 
 
 
-```text
+📁 Project Structure
+
+
+
+text
 
 padhai-saathi/
 
@@ -64,15 +64,15 @@ padhai-saathi/
 
 └── README.md
 
-```
 
 
 
-\## ⚙️ Installation and Setup
+
+⚙️Installation and Setup
 
 
 
-\### 1. Clone the repository
+1\. Clone the repository
 
 
 
@@ -86,7 +86,7 @@ cd padhai-saathi
 
 
 
-\### 2. Install dependencies
+2\. Install dependencies
 
 
 
@@ -98,7 +98,7 @@ pip install flask groq python-dotenv
 
 
 
-\### 3. Configure your API key
+3\. Configure your API key
 
 
 
@@ -118,11 +118,9 @@ Replace `your\_groq\_api\_key\_here` with your own Groq API key.
 
 
 
-\*\*Important:\*\* Never share or upload your API key to GitHub.
 
 
-
-\### 4. Run the application
+4\. Run the application
 
 
 
@@ -146,7 +144,7 @@ http://127.0.0.1:5000
 
 
 
-\## 🔑 Environment Variables
+🔑 Environment Variables
 
 
 
@@ -158,7 +156,7 @@ http://127.0.0.1:5000
 
 
 
-\## 🚀 Future Improvements
+🚀 Future Improvements
 
 
 
@@ -166,7 +164,7 @@ http://127.0.0.1:5000
 
 \- Display correct answers after quiz submission.
 
-\- Add difficulty levels (Easy, Medium, Hard).
+\- Add difficulty levels (Easy, Medium, Hard)
 
 \- Support different classes and subjects.
 
@@ -174,11 +172,11 @@ http://127.0.0.1:5000
 
 
 
-\## 👨‍💻 Author
+👨‍💻 Author
 
 
 
-\*\*Aarjan Acharya\*\*
+Aarjan Acharya
 
 
 
@@ -186,9 +184,9 @@ GitHub: \[@aarjan000](https://github.com/aarjan000)
 
 
 
-\---
 
 
 
-\*Built with Python and AI to make learning more interactive.\*
+
+
 
